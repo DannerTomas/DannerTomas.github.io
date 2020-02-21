@@ -10,7 +10,7 @@ PRINT y
 END IF
 END 
 ```
-可能有错误，大可不必在意。（大雾）
+可能有错误，大可不必在意，就比如没有给i赋值。（大雾）
 
 当然，你也可以看看我朋友的一个Web Page:
 
@@ -24,3 +24,6 @@ END
 <a href="https://tieba.baidu.com/f?kw=%E6%8E%A3%E7%94%B5%E5%B7%A5%E4%BD%9C%E5%AE%A4&ie=utf-8" target="_blank">掣电工作室吧</a>
 
 Over!
+
+本界面受Swift Inc保护。
+界面提供:Github Pages 技术支持:Jacksonzwang and Dannertomas
