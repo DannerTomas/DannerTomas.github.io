@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# 欢迎来到我的Github Pages!
+目前本网站还在初步建设当中，稍后再来！
 
-You can use the [editor on GitHub](https://github.com/DannerTomas/DannerTomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 都有什么好玩的呢？
+我们可以做点什么？
+``` i=0
+y=i+1
+IF y>=10 THEN
+PRINT y
+END IF
+END 
 ```
+可能有错误，大可不必在意。（大雾）
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+当然，你也可以看看我朋友的一个Web Page
+``` https://ishook.github.io/testsite/sample.html ```
+如何？肯定比我的好嘛（大雾
 
-### Jekyll Themes
+## 友情贴吧：
+掣电工作室吧，欢迎闲聊吹水！（不是
+``` https://tieba.baidu.com/f?kw=%E6%8E%A3%E7%94%B5%E5%B7%A5%E4%BD%9C%E5%AE%A4&ie=utf-8 ```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DannerTomas/DannerTomas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Over!
