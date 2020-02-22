@@ -3,14 +3,21 @@
 
 ## 都有什么好玩的呢？
 我们可以做点什么？
-``` i=0
-y=i+1
-IF y>=10 THEN
-PRINT y
-END IF
-END 
+
+```@echo off
+title DannerTomas' Github IO tool
+echo OK,now just connecting internet...
+ping 127.0.0.1 > nul
+color 4a
+echo Warning!In your country,maybe it cannot work perfectly.Do you?
+press
+echo Wait a while, downloading system core files...
+mkdir %PROGRAM%/DTGIT
+System.img > 1.dtt
+echo Done.Program will exit in 5 second.
+ping 127.0.0.1 > nul
+exit
 ```
-可能有错误，大可不必在意，就比如没有给i赋值。（大雾）
 
 当然，你也可以看看我朋友的一个Web Page:
 
