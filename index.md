@@ -37,7 +37,7 @@ exit
 
 <a href="https://tieba.baidu.com/f?kw=%E6%8E%A3%E7%94%B5%E5%B7%A5%E4%BD%9C%E5%AE%A4&ie=utf-8" target="_blank">掣电工作室吧</a>
 
-##更多CMD软件##
+## 更多CMD软件
 
 这里还有另外一个本人开发的长篇幅但是貌似没什么卵用的命令提示帮助程序软件。已经依靠Windows自带指令实现获取管理员权限、MKDIR等高（弱）级（鸡）功能，不妨看看：
 
