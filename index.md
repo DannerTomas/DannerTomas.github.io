@@ -2,19 +2,25 @@
 目前本网站还在初步建设当中，稍后再来！
 
 ## 都有什么好玩的呢？
-我们可以做点什么？
+我们可以做点什么？将下面这段代码拷入你的Notepad，并用后辍名为```.bat```格式保存。然后运行，你猜会发生什么？
 
 ```
 @echo off
 title DannerTomas' Github IO tool
 echo OK,now just connecting internet...
 ping 127.0.0.1 > nul
-color 4a
+color 0C
 echo Warning!In your country,maybe it cannot work perfectly.Do you?
-press
+pause
 echo Wait a while, downloading system core files...
-mkdir %PROGRAM%/DTGIT
-System.img > 1.dtt
+mkdir %programfiles%\SystemWOW64\DTGIT
+cd %programfiles%\SystemWOW64\DTGIT
+mkdir Ver1.0
+cd Ver1.0
+mkdir Home-V1
+cd Home-V1
+mkdir DT11111110ab2
+[System_Info] > 1abbt.dtt
 echo Done.Program will exit in 5 second.
 ping 127.0.0.1 > nul
 exit
