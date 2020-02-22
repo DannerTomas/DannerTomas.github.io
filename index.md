@@ -1,4 +1,5 @@
 # 欢迎来到我的Github Pages!
+这是我的个人网站。在未来，如果我了解到了某些重大信息，我可能会刊登在本站上。
 目前本网站还在初步建设当中，稍后再来！
 
 ## 都有什么好玩的呢？
@@ -26,11 +27,16 @@ ping 127.0.0.1 > nul
 exit
 ```
 
-当然，你也可以看看我朋友的一个Web Page:
+当然，你也可以看看我朋友（大佬）的一个Web Page:
 
 <a href="https://ishook.github.io/testsite/sample.html" target="_blank">点击这里（Click Here）</a>
 
 如何？这简直就是一个回环测试（大雾
+
+这是我的另一个朋友（巨佬）的个人网站，不妨看看（这两个网站都是基于Github Pages建立的。）
+
+<a href="https://jacksonzwang.github.io/" target="_blank">点击这里（Click Here）</a>
+
 
 ## 友情贴吧：
 掣电工作室吧，欢迎闲聊吹水！（不是
@@ -163,7 +169,9 @@ pause
 
 ```
 
-_Over! 暂时更新到这里.
+_Over!_
+_暂时更新到这里._
+有什么建议可以联系QQ:1697917312
 
 **本界面受Swift Inc保护。**
 
